@@ -19,8 +19,8 @@ I'm LyudeUserbot, people call me Axes, currently studying getting involved in th
 
 <div align="center">
   <a href="https://github.com/PrismaRareness">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyudeUserbot&count_private=true&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyudeUserbot&hide=TeX&theme=radical&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyudeUserbot&count_private=true&show_icons=true&theme=great-gatsby&include_all_commits=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyudeUserbot&hide=TeX&theme=great-gatsby&layout=compact"/>
 </div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LyudeUserbot.LyudeUserbot)
